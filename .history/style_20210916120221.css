@@ -31,7 +31,7 @@ body {
   padding: 50px 20px 30px 20px;
 }
 .header h1 {
-  font-size: 30px;
+  font-size: 50px;
   color: #fbb034;
   text-shadow: 1px 3px rgba(0, 0, 0, 0.9);
 }
@@ -52,25 +52,5 @@ body {
   font-size: 35px;
   font-weight: 500;
   margin-bottom: 10px;
-  text-shadow: 1px 3px rgba(0, 0, 0, 0.8);
-}
-
-.temp {
-  font-size: 30px;
-  font-weight: 700;
-  margin-bottom: 15px;
-  text-shadow: 1px 5px rgba(0, 0, 0, 0.1);
-}
-
-.desc {
-  font-size: 25px;
-  font-style: italic;
-  text-shadow: 1px 5px rgba(0, 0, 0, 0.6);
-  margin-bottom: 10px;
-}
-
-.minmax {
-  font-size: 24px;
-  text-shadow: 1px 5px rgba(0, 0, 0, 0.3);
-
+  text-s
 }

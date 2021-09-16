@@ -65,12 +65,12 @@ body {
 .desc {
   font-size: 25px;
   font-style: italic;
-  text-shadow: 1px 5px rgba(0, 0, 0, 0.6);
+  text-shadow: 1px 5px rgba(0, 0, 0, 0.8);
   margin-bottom: 10px;
 }
 
 .minmax {
   font-size: 24px;
-  text-shadow: 1px 5px rgba(0, 0, 0, 0.3);
+  text-shadow: 1px 5px rgba(0, 0, 0, 0.8);
 
 }
