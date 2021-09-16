@@ -7,7 +7,7 @@ const setQuery = (e) => {
 }
 
 const getResult = (cityName) => {
-        let query =   
+        let q  
 }
 
 const searchBar = document.getElementById('searchBar')

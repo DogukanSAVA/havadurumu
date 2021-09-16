@@ -3,11 +3,7 @@ const key = 'f78e34271ac7156d05095b80ada1db41'
 
 const setQuery = (e) => {
           if(e.keyCode == '13')
-          getResult(searchBar.value)
-}
-
-const getResult = (cityName) => {
-        let query =   
+          getResult()
 }
 
 const searchBar = document.getElementById('searchBar')

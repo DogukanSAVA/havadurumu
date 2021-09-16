@@ -6,9 +6,7 @@ const setQuery = (e) => {
           getResult(searchBar.value)
 }
 
-const getResult = (cityName) => {
-        let query =   
-}
+const getResult = (ci)
 
 const searchBar = document.getElementById('searchBar')
 searchBar.addEventListener('keypress', setQuery)
