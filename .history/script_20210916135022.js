@@ -7,8 +7,7 @@ const setQuery = (e) => {
 }
 
 const getResult = (cityName) => {
-        let query = `${url}weather?q=${cityName}&appid=${key}&units=&lang=tr`
-        console.log(query);
+        let query =   `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `
 }
 
 const searchBar = document.getElementById('searchBar')
